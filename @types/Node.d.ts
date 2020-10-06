@@ -7,3 +7,11 @@ declare interface Node {
     }
   }
 }
+
+declare const Packages: {
+  javax: {
+    jcr: {
+      Node: any;
+    }
+  }
+};

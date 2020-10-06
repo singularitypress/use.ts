@@ -11,3 +11,10 @@ declare const granite: {
     properties: any;
   }
 };
+
+declare const java: {
+  lang: {
+    Number: any,
+    Boolean: any
+  }
+};
